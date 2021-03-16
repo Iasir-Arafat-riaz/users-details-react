@@ -10,7 +10,7 @@ const Users = (props) => {
            <h1>user name : {name}</h1>
            <h5>Email Address : {email}</h5>
            <p>City : {address.city}</p>
-           <button>click here</button>
+           <button onClick={props.eventHandler}>click here</button>
         </div>
     );
 };
