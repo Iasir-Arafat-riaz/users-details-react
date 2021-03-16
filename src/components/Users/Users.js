@@ -1,9 +1,16 @@
 import React from 'react';
 
-const Users = () => {
+const Users = (props) => {
+    
+ 
+    const {name,email,image,address}=props.user
     return (
         <div>
-            <h2>User Name : </h2>
+            <img src={image} alt=""/>
+           <h1>user name : {name}</h1>
+           <h5>Email Address : {email}</h5>
+           <p>City : {address.city}</p>
+           <button>click here</button>
         </div>
     );
 };
