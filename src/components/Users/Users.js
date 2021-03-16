@@ -4,7 +4,7 @@ import "./Users.css"
 const Users = (props) => {
     
  
-    const {name,email,image,address}=props.user
+    const {name,email,image,address,salary}=props.user
 
     
     return (
@@ -13,6 +13,7 @@ const Users = (props) => {
            <h1>user name : {name}</h1>
            <h5>Email Address : {email}</h5>
            <p>City : {address.city}</p>
+           <p>{salary}</p>
            <button onClick={props.eventHandler}>click here</button>
         </div>
     );

@@ -2,6 +2,7 @@
     {
       "id": 1,
       "name": "Solaiman Azadi",
+      "salary":2000,
       "username": "Bret",
       "email": "Sincere@april.biz",
       "image":"https://pasteboard.co/JSQ2jgA.jpg",
@@ -26,6 +27,7 @@
     {
       "id": 2,
       "name": "Marvin kisler",
+      "salary":1500,
       "username": "Antonette",
       "email": "Shanna@melissa.tv",
       "image":"https://pasteboard.co/JSQ3A2Y.jpg",
@@ -50,6 +52,7 @@
     {
       "id": 3,
       "name": "Fardin Hayder",
+      "salary":3000,
       "username": "Samantha",
       "email": "Nathan@yesenia.net",
       "image":"https://pasteboard.co/JSQ4bVh.jpg",
@@ -74,6 +77,7 @@
     {
       "id": 4,
       "name": "Patricia Lebsack",
+      "salary":1400,
       "username": "Karianne",
       "email": "Julianne.OConner@kory.org",
       "image":"https://pasteboard.co/JSQ4wOE.jpg",
@@ -98,6 +102,7 @@
     {
       "id": 5,
       "name": "Chelsey Dietrich",
+      "salary":1600,
       "username": "Kamren",
       "email": "Lucio_Hettinger@annie.ca",
       "image":"https://pasteboard.co/JSQ4Sro.jpg",
@@ -122,6 +127,7 @@
     {
       "id": 6,
       "name": "Mrs. Dennis Schulist",
+      "salary":1800,
       "username": "Leopoldo_Corkery",
       "email": "Karley_Dach@jasper.info",
       "image":"https://pasteboard.co/JSQ5nOC.jpg",
@@ -146,6 +152,7 @@
     {
       "id": 7,
       "name": "Kurtis Weissnat",
+      "salary":1900,
       "username": "Elwyn.Skiles",
       "email": "Telly.Hoeger@billy.biz",
       "image":"https://pasteboard.co/JSQ5SiU.jpg",
@@ -170,6 +177,7 @@
     {
       "id": 8,
       "name": "Nicholas Runolfsdottir V",
+      "salary":2200,
       "username": "Maxime_Nienow",
       "email": "Sherwood@rosamond.me",
       "image":"https://pasteboard.co/JSQ6a15.jpg",
@@ -194,6 +202,7 @@
     {
       "id": 9,
       "name": "Glenna Reichert",
+      "salary":2400,
       "username": "Delphine",
       "email": "Chaim_McDermott@dana.io",
       "image":"https://pasteboard.co/JSQ6Hnf.jpg",
@@ -218,6 +227,7 @@
     {
       "id": 10,
       "name": "Clementina DuBuque",
+      "salary":3500,
       "username": "Moriah.Stanton",
       "email": "Rey.Padberg@karina.biz",
       "image":"https://pasteboard.co/JSQ6Zy7.jpg",
@@ -241,6 +251,7 @@
     },{
         "id": 11,
         "name": "Julianne gagger",
+        "salary":2300,
         "username": "Delphine",
         "email": "Chaim_McDermott@dana.io",
         "image":"https://pasteboard.co/JSQ7eie.jpg",
@@ -264,6 +275,7 @@
       },{
         "id": 12,
         "name": "Nusrat Keya",
+        "salary":2400,
         "username": "Delphine",
         "email": "Chaim_McDermott@dana.io",
         "image":"https://pasteboard.co/JSQ7Em1.jpg",
@@ -287,6 +299,7 @@
       },{
         "id": 13,
         "name": "Kadiza tondra",
+        "salary":2600,
         "username": "Delphine",
         "email": "Chaim_McDermott@dana.io",
         "image":"https://pasteboard.co/JSQ82ql.jpg",
@@ -310,6 +323,7 @@
       },{
         "id": 14,
         "name": "Shorna Mussant",
+        "salary":2700,
         "username": "Delphine",
         "email": "Chaim_McDermott@dana.io",
         "image":"https://pasteboard.co/JSQ8AV3.png",
@@ -333,6 +347,7 @@
       },{
         "id": 15,
         "name": "Smrity Akter Keya",
+        "salary":3100,
         "username": "Delphine",
         "email": "Chaim_McDermott@dana.io",
         "image":"https://pasteboard.co/JSQ95YZ.jpg",
