@@ -26,7 +26,7 @@ function App() {
       <div className="user">
       {user.map(usr=><Users user={usr} key={usr.id} eventHandler={eventHandler}></Users>)}
       </div>
-      <img src="./userPhoto/user1.jpg" alt=""/>
+      
       
       <h1></h1>
     </div>
