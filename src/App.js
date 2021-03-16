@@ -3,22 +3,30 @@ import './App.css';
 import userData from "./data/data.json"
 import { useEffect, useState } from 'react';
 import Users from './components/Users/Users';
-import Cart from './components/Users/Cart/Cart';
+import Cart from './components/Cart/Cart';
 
 function App() {
   const [user,setUser]=useState([])
   const[cart,setCart]=useState([])
-  const eventHandler=()=>{
-    console.log("kire lullu")
-  }
+  
   useEffect(()=>{
     setUser(userData)
     console.log(userData)
-  },[])
+  },[]);
+  const eventHandler=(user)=>{
+    const newCart=[...cart,user];
+    setCart(newCart)
+    console.log("hlw")
+  }
   return (
-    <div className="App">
+    <div style={{display: 'flex'}} className="App">
+      <div style={{width:"25%"}}>
+      <Cart total={cart}></Cart>
+      </div>
+      <div className="user">
       {user.map(usr=><Users user={usr} key={usr.id} eventHandler={eventHandler}></Users>)}
-      <Cart></Cart>
+      </div>
+      
       
       <h1></h1>
     </div>
