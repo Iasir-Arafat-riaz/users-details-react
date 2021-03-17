@@ -1,5 +1,7 @@
 import React from 'react';
 import "./Users.css"
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faPlusSquare } from '@fortawesome/free-solid-svg-icons'
 
 const Users = (props) => {
     
@@ -15,7 +17,11 @@ const Users = (props) => {
            <h5>Email Address : {email}</h5>
            <p>City : {address.city}</p>
            <p>Salary : ${salary}</p>
-           <button onClick={()=>props.eventHandler(props.user)}>click here</button>
+           <button 
+           style={{backgroundColor:"orange",height:"25px"}}
+           onClick={()=>props.eventHandler(props.user)}>
+               <FontAwesomeIcon icon={faPlusSquare} />
+               click here</button>
         </div>
     );
 };

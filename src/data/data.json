@@ -1,31 +1,6 @@
 [
     {
       "id": 1,
-      "name": "Syed Sadman Ashik",
-      "salary":2000,
-      "username": "Ashik",
-      "email": "luchu_ashik@april.biz",
-      "image":"https://i.ibb.co/CKG4Mfv/ashik.jpg",
-      "address": {
-        "street": "Kulas Light",
-        "suite": "Apt. 556",
-        "city": "Kishorgonj",
-        "zipcode": "92998-3874",
-        "geo": {
-          "lat": "-37.3159",
-          "lng": "81.1496"
-        }
-      },
-      "phone": "01974866350",
-      "website": "hildegard.org",
-      "company": {
-        "name": "Romaguera-Crona",
-        "catchPhrase": "Multi-layered client-server neural-net",
-        "bs": "harness real-time e-markets"
-      }
-    },
-    {
-      "id": 2,
       "name": "Iasir Arafat Riaz",
       "salary":3500,
       "username": "Riaz",
@@ -47,6 +22,31 @@
         "name": "Deckow-Crist",
         "catchPhrase": "Proactive didactic contingency",
         "bs": "synergize scalable supply-chains"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Syed Sadman Ashik",
+      "salary":2000,
+      "username": "Ashik",
+      "email": "luchu_ashik@april.biz",
+      "image":"https://i.ibb.co/CKG4Mfv/ashik.jpg",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Kishorgonj",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "01974866350",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
       }
     },
     {
