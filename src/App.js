@@ -20,7 +20,7 @@ function App() {
   }
   return (
     <div style={{display: 'flex'}} className="App">
-      <div style={{width:"25%", backgroundColor:"goldenRod"}}>
+      <div className="cart" style={{width:"25%", backgroundColor:"goldenRod"}}>
       <Cart total={cart}></Cart>
       </div>
       <div className="user">

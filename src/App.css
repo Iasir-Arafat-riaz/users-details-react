@@ -39,5 +39,10 @@
 
 .user{
   width:70%;
+  margin-left: 330px;
   
+  
+}
+.cart{
+  position: fixed;
 }
